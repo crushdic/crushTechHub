@@ -1,0 +1,1 @@
+This initiative aims to be a hub for gathering and showcasing the latest technologies and best practices, covering various fields from data science and blockchain to cloud computing and the Internet of Things.
